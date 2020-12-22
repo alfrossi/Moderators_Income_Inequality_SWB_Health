@@ -1,0 +1,415 @@
+S003,Country,WAVE,EVS_WVS
+8,Albania,3,2
+8,Albania,4,2
+8,Albania,7,1
+8,Albania,5,1
+12,Algeria,4,2
+12,Algeria,6,2
+20,Andorra,7,2
+20,Andorra,5,2
+31,Azerbaijan,3,2
+31,Azerbaijan,6,2
+31,Azerbaijan,7,1
+32,Argentina,7,2
+32,Argentina,1,2
+32,Argentina,2,2
+32,Argentina,3,2
+32,Argentina,4,2
+32,Argentina,5,2
+32,Argentina,6,2
+36,Australia,7,2
+36,Australia,1,2
+36,Australia,3,2
+36,Australia,5,2
+36,Australia,6,2
+50,Bangladesh,7,2
+50,Bangladesh,3,2
+50,Bangladesh,4,2
+51,Armenia,3,2
+51,Armenia,6,2
+51,Armenia,7,1
+51,Armenia,5,1
+68,Bolivia,7,2
+70,Bosnia Herzegovina,3,2
+70,Bosnia Herzegovina,4,2
+70,Bosnia Herzegovina,7,1
+70,Bosnia Herzegovina,5,1
+76,Brazil,7,2
+76,Brazil,2,2
+76,Brazil,3,2
+76,Brazil,5,2
+76,Brazil,6,2
+100,Bulgaria,3,2
+100,Bulgaria,5,2
+100,Bulgaria,7,1
+100,Bulgaria,2,1
+100,Bulgaria,4,1
+104,Myanmar,7,2
+112,Belarus,2,2
+112,Belarus,3,2
+112,Belarus,6,2
+112,Belarus,7,1
+112,Belarus,4,1
+112,Belarus,5,1
+124,Canada,1,2
+124,Canada,2,2
+124,Canada,4,2
+124,Canada,5,2
+152,Chile,7,2
+152,Chile,2,2
+152,Chile,3,2
+152,Chile,4,2
+152,Chile,5,2
+152,Chile,6,2
+156,China,7,2
+156,China,2,2
+156,China,3,2
+156,China,4,2
+156,China,5,2
+156,China,6,2
+158,Taiwan ROC,7,2
+158,Taiwan ROC,3,2
+158,Taiwan ROC,5,2
+158,Taiwan ROC,6,2
+170,Colombia,7,2
+170,Colombia,3,2
+170,Colombia,5,2
+170,Colombia,6,2
+191,Croatia,3,2
+191,Croatia,7,1
+191,Croatia,4,1
+191,Croatia,5,1
+196,Cyprus,7,2
+196,Cyprus,5,2
+196,Cyprus,6,2
+203,Czech Rep.,2,2
+203,Czech Rep.,3,2
+203,Czech Rep.,7,1
+203,Czech Rep.,4,1
+203,Czech Rep.,5,1
+214,Dominican Rep.,3,2
+218,Ecuador,7,2
+218,Ecuador,6,2
+222,El Salvador,3,2
+231,Ethiopia,7,2
+231,Ethiopia,5,2
+233,Estonia,3,2
+233,Estonia,6,2
+233,Estonia,7,1
+233,Estonia,2,1
+233,Estonia,4,1
+233,Estonia,5,1
+246,Finland,1,2
+246,Finland,3,2
+246,Finland,5,2
+246,Finland,7,1
+246,Finland,2,1
+246,Finland,4,1
+250,France,5,2
+250,France,7,1
+250,France,1,1
+250,France,2,1
+250,France,4,1
+268,Georgia,3,2
+268,Georgia,5,2
+268,Georgia,6,2
+268,Georgia,7,1
+275,Palestine,6,2
+276,Germany,7,2
+276,Germany,3,2
+276,Germany,5,2
+276,Germany,6,2
+276,Germany,1,1
+276,Germany,2,1
+276,Germany,4,1
+288,Ghana,5,2
+288,Ghana,6,2
+300,Greece,7,2
+300,Greece,4,1
+300,Greece,5,1
+320,Guatemala,7,2
+320,Guatemala,5,2
+332,Haiti,6,2
+344,Hong Kong SAR,7,2
+344,Hong Kong SAR,5,2
+344,Hong Kong SAR,6,2
+348,Hungary,1,2
+348,Hungary,3,2
+348,Hungary,5,2
+348,Hungary,7,1
+348,Hungary,2,1
+348,Hungary,4,1
+356,India,2,2
+356,India,3,2
+356,India,4,2
+356,India,5,2
+356,India,6,2
+360,Indonesia,7,2
+360,Indonesia,4,2
+360,Indonesia,5,2
+364,Iran,7,2
+364,Iran,4,2
+364,Iran,5,2
+368,Iraq,7,2
+368,Iraq,4,2
+368,Iraq,5,2
+368,Iraq,6,2
+376,Israel,4,2
+380,Italy,5,2
+380,Italy,7,1
+380,Italy,1,1
+380,Italy,2,1
+380,Italy,4,1
+392,Japan,7,2
+392,Japan,1,2
+392,Japan,2,2
+392,Japan,3,2
+392,Japan,4,2
+392,Japan,5,2
+392,Japan,6,2
+398,Kazakhstan,7,2
+398,Kazakhstan,6,2
+400,Jordan,7,2
+400,Jordan,4,2
+400,Jordan,5,2
+400,Jordan,6,2
+410,South Korea,7,2
+410,South Korea,1,2
+410,South Korea,2,2
+410,South Korea,3,2
+410,South Korea,4,2
+410,South Korea,5,2
+410,South Korea,6,2
+414,Kuwait,6,2
+417,Kyrgyzstan,7,2
+417,Kyrgyzstan,4,2
+417,Kyrgyzstan,6,2
+422,Lebanon,7,2
+422,Lebanon,6,2
+428,Latvia,3,2
+428,Latvia,2,1
+428,Latvia,4,1
+428,Latvia,5,1
+434,Libya,6,2
+440,Lithuania,3,2
+440,Lithuania,7,1
+440,Lithuania,2,1
+440,Lithuania,4,1
+440,Lithuania,5,1
+446,Macau SAR,7,2
+458,Malaysia,7,2
+458,Malaysia,5,2
+458,Malaysia,6,2
+466,Mali,5,2
+484,Mexico,7,2
+484,Mexico,1,2
+484,Mexico,2,2
+484,Mexico,3,2
+484,Mexico,4,2
+484,Mexico,5,2
+484,Mexico,6,2
+498,Moldova,3,2
+498,Moldova,4,2
+498,Moldova,5,2
+499,Montenegro,3,2
+499,Montenegro,4,2
+499,Montenegro,7,1
+499,Montenegro,5,1
+504,Morocco,4,2
+504,Morocco,5,2
+504,Morocco,6,2
+528,Netherlands,5,2
+528,Netherlands,6,2
+528,Netherlands,7,1
+528,Netherlands,1,1
+528,Netherlands,2,1
+528,Netherlands,4,1
+554,New Zealand,7,2
+554,New Zealand,3,2
+554,New Zealand,5,2
+554,New Zealand,6,2
+558,Nicaragua,7,2
+566,Nigeria,7,2
+566,Nigeria,2,2
+566,Nigeria,3,2
+566,Nigeria,4,2
+566,Nigeria,6,2
+578,Norway,3,2
+578,Norway,5,2
+578,Norway,7,1
+578,Norway,1,1
+578,Norway,2,1
+586,Pakistan,7,2
+586,Pakistan,3,2
+586,Pakistan,4,2
+586,Pakistan,6,2
+604,Peru,7,2
+604,Peru,3,2
+604,Peru,4,2
+604,Peru,5,2
+604,Peru,6,2
+608,Philippines,7,2
+608,Philippines,3,2
+608,Philippines,4,2
+608,Philippines,6,2
+616,Poland,2,2
+616,Poland,3,2
+616,Poland,5,2
+616,Poland,6,2
+616,Poland,7,1
+616,Poland,4,1
+630,Puerto Rico,7,2
+630,Puerto Rico,3,2
+630,Puerto Rico,4,2
+634,Qatar,6,2
+642,Romania,7,2
+642,Romania,3,2
+642,Romania,5,2
+642,Romania,6,2
+642,Romania,2,1
+642,Romania,4,1
+643,Russia,7,2
+643,Russia,2,2
+643,Russia,3,2
+643,Russia,5,2
+643,Russia,6,2
+643,Russia,4,1
+646,Rwanda,5,2
+646,Rwanda,6,2
+682,Saudi Arabia,4,2
+688,Serbia,7,2
+688,Serbia,3,2
+688,Serbia,4,2
+688,Serbia,5,2
+702,Singapore,4,2
+702,Singapore,6,2
+703,Slovakia,2,2
+703,Slovakia,3,2
+703,Slovakia,7,1
+703,Slovakia,4,1
+703,Slovakia,5,1
+704,Vietnam,7,2
+704,Vietnam,4,2
+704,Vietnam,5,2
+705,Slovenia,3,2
+705,Slovenia,5,2
+705,Slovenia,6,2
+705,Slovenia,7,1
+705,Slovenia,2,1
+705,Slovenia,4,1
+710,South Africa,1,2
+710,South Africa,2,2
+710,South Africa,3,2
+710,South Africa,4,2
+710,South Africa,5,2
+710,South Africa,6,2
+716,Zimbabwe,7,2
+716,Zimbabwe,4,2
+716,Zimbabwe,6,2
+724,Spain,2,2
+724,Spain,3,2
+724,Spain,4,2
+724,Spain,5,2
+724,Spain,6,2
+724,Spain,7,1
+724,Spain,1,1
+752,Sweden,3,2
+752,Sweden,4,2
+752,Sweden,5,2
+752,Sweden,6,2
+752,Sweden,7,1
+752,Sweden,1,1
+752,Sweden,2,1
+756,Switzerland,2,2
+756,Switzerland,3,2
+756,Switzerland,5,2
+756,Switzerland,7,1
+762,Tajikistan,7,2
+764,Thailand,7,2
+764,Thailand,5,2
+764,Thailand,6,2
+780,Trinidad and Tobago,5,2
+780,Trinidad and Tobago,6,2
+788,Tunisia,7,2
+788,Tunisia,6,2
+792,Turkey,7,2
+792,Turkey,2,2
+792,Turkey,3,2
+792,Turkey,4,2
+792,Turkey,5,2
+792,Turkey,6,2
+800,Uganda,4,2
+804,Ukraine,7,2
+804,Ukraine,3,2
+804,Ukraine,5,2
+804,Ukraine,6,2
+804,Ukraine,4,1
+807,North Macedonia,3,2
+807,North Macedonia,4,2
+807,North Macedonia,7,1
+807,North Macedonia,5,1
+818,Egypt,7,2
+818,Egypt,4,2
+818,Egypt,5,2
+818,Egypt,6,2
+826,United Kingdom,3,2
+826,United Kingdom,5,2
+826,United Kingdom,7,1
+826,United Kingdom,1,1
+826,United Kingdom,2,1
+826,United Kingdom,4,1
+834,Tanzania,4,2
+840,United States,7,2
+840,United States,1,2
+840,United States,2,2
+840,United States,3,2
+840,United States,4,2
+840,United States,5,2
+840,United States,6,2
+854,Burkina Faso,5,2
+858,Uruguay,3,2
+858,Uruguay,5,2
+858,Uruguay,6,2
+860,Uzbekistan,6,2
+862,Venezuela,3,2
+862,Venezuela,4,2
+887,Yemen,6,2
+894,Zambia,5,2
+40,NA,7,1
+208,NA,7,1
+352,NA,7,1
+620,NA,7,1
+40,NA,2,1
+40,NA,4,1
+40,NA,5,1
+56,NA,1,1
+56,NA,2,1
+56,NA,4,1
+56,NA,5,1
+197,NA,5,1
+208,NA,1,1
+208,NA,2,1
+208,NA,4,1
+208,NA,5,1
+352,NA,1,1
+352,NA,2,1
+352,NA,4,1
+352,NA,5,1
+372,NA,1,1
+372,NA,2,1
+372,NA,4,1
+372,NA,5,1
+442,NA,4,1
+442,NA,5,1
+470,NA,1,1
+470,NA,2,1
+470,NA,4,1
+470,NA,5,1
+620,NA,2,1
+620,NA,4,1
+620,NA,5,1
+909,NA,1,1
+909,NA,2,1
+909,NA,4,1
+909,NA,5,1
+915,NA,5,1
