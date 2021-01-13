@@ -135,3 +135,45 @@ WriteXLS(dict_partial,"dictionary_partial.xlsx")
 dict_partial_others <- left_join(data,dt2,by = "Variable")
 WriteXLS(dict_partial_others,"dictionary_partial_others.xlsx")
 
+
+
+###################################
+############# Topic F #############
+##### Merging WVS/EVS with WB #####
+###################################
+
+library(readxl)
+setwd("~/Documents/Task1/Data/")
+WB_data <- read_excel("WB_data.xlsx")
+WB_data <- WB_data[1:217,]
+#View(WB_data)
+
+key_merge = read_excel("countries_codes_and_coordinates2.xlsx")
+key_merge = key_merge[,3:4]
+#key_merge$Numeric.code = as.numeric(gsub(" \\\"|\\\"","",key_merge$Numeric.code))
+#key_merge$`Country Code` = gsub(" \\\"|\\\"","",key_merge$Alpha.3.code)
+
+WB_data2 = left_join(WB_data,key_merge,by = c("Country Code"="Alpha3"))
+
+sum(is.na(WB_data2$Numeric.code))
+# Confirming that every country have a number
+
+WB_data2 = WB_data2[,5:ncol(WB_data2)]
+
+WB_data3 = WB_data2 %>%
+            pivot_longer(!Numeric, names_to = "Year", values_to = "GDP")
+
+WB_data3$Year = as.numeric(str_remove(WB_data3$Year, " \\[.*"))
+
+dt = left_join(dt,WB_data3, by= c("S003"="Numeric","S020"="Year"))
+
+setwd("~/Documents/Task1/Results/")
+write_csv(dt,"database.csv")
+saveRDS(dt, file = "database.rds")
+
+#######################################
+############### Topic G ###############
+##### Specification curve analysis ####
+#######################################
+
+
